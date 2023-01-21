@@ -7,9 +7,8 @@ Each time a player completes a line, it will disappear and the player will earn 
 ## Features
 
 -   Classic Tetris gameplay
--   Multiple levels of increasing difficulty
+-   Progressive gameplay
 -   Score tracking
--   Responsive design for different screen sizes
 
 ## How to Play
 
@@ -19,7 +18,7 @@ The game will end if the blocks reach the top of the playing field.
 
 ## Installation
 
-To play this game, simply open the index.html file in your browser or use that link "https://tetris88.netlify.app/". No additional installations are required.
+To play this game, simply open the index.html file in your browser or use that link https://tetris88.netlify.app/. No additional installations are required.
 
 ## Conclusion
 
