@@ -6,10 +6,10 @@ Each time a player completes a line, it will disappear and the player will earn 
 
 ## Features
 
-    Classic Tetris gameplay
-    Multiple levels of increasing difficulty
-    Score tracking
-    Responsive design for different screen sizes
+-   Classic Tetris gameplay
+-   Multiple levels of increasing difficulty
+-   Score tracking
+-   Responsive design for different screen sizes
 
 ## How to Play
 
