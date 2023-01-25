@@ -1,4 +1,5 @@
 # Tetris Game
+![Capture d’écran 2023-01-22 121233](https://user-images.githubusercontent.com/96482486/214651303-f5f9a134-c491-4083-be76-1bcf5143ce9a.png)
 
 Welcome to my Tetris game project! This game is built using JavaScript, HTML, and CSS. 
 The objective of the game is to rotate and move different shaped blocks, known as tetrominoes, in order to create complete horizontal lines without gaps. 
